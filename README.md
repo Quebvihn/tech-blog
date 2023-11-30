@@ -26,6 +26,9 @@ The Tech Blog CMS is a content management system that allows developers to publi
 
 - **Session Timeout**: Users are prompted to log in again if idle on the site for more than a set time.
 
+## Image
+![Alt text](<image/Screenshot 2023-11-29 195317.png>)
+
 ## Technologies Used
 
 - **Handlebars.js**: Used as the templating language for rendering HTML pages.
